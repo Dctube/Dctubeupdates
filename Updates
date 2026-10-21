@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 14,
-  "latest_version_name": "3.0",
-  "min_supported_version_code": 14,
-  "force_update": false,
+  "latest_version_code": 15,
+  "latest_version_name": "3.2",
+  "min_supported_version_code": 1,
+  "force_update": true,
   "title": "Update your application to the latest version",
   "message": "Naye features aur super-fast downloading ke sath DC TUBE ka naya update aa gaya hai. Please update karein.",
   "update_url": "https://t.me/dctubeupdates",
